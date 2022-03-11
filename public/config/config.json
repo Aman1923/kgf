@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0xEFA38C54415cc993AD36405C53E74ee87af179Cd",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xefa38c54415cc993ad36405c53e74ee87af179cd",
+  "CONTRACT_ADDRESS": "0x34aAc5e61a41678805d63A78C4C660B56CBEc9Ff",
+  "SCAN_LINK": "https://etherscan.io/address/0x34aAc5e61a41678805d63A78C4C660B56CBEc9Ff",
   "NETWORK": {
-    "NAME": "Rinkeby",
+    "NAME": "Ethereum",
     "SYMBOL": "ETH",
-    "ID": 4
+    "ID": 1
   },
-  "NFT_NAME": "Sol Symbiotes",
-  "SYMBOL": "Sym",
-  "MAX_SUPPLY": 6969,
-  "WEI_COST": 69000000000000000,
-  "DISPLAY_COST": 0.069,
+  "NFT_NAME": "KinderGartenFight NFT",
+  "SYMBOL": "KGF",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/sol-symbiotes",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/kindergartenfight",
   "SHOW_BACKGROUND": true
 }

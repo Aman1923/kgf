@@ -249,13 +249,13 @@ function App() {
             >
               <StyledButton
                 onClick={(e) => {
-                  window.open("/config/roadmap.pdf", "_blank");
+                  window.open("https://www.youtube.com/watch?v=TUVcZfQe-Kw", "_blank");
                 }}
                 style={{
                   margin: "5px",
                 }}
               >
-                Roadmap
+                Song
               </StyledButton>
               <StyledButton
                 style={{
@@ -401,7 +401,7 @@ function App() {
           <s.Container flex={1} jc={"center"} ai={"center"}>
             <StyledImg
               alt={"example"}
-              src={"/config/images/example.gif"}
+              src={"/config/images/example (2).gif"}
               style={{ transform: "scaleX(-1)" }}
             />
           </s.Container>
@@ -414,9 +414,7 @@ function App() {
               color: "var(--primary-text)",
             }}
           >
-            Please make sure you are connected to the right network (
-            {CONFIG.NETWORK.NAME} Mainnet) and the correct address. Please note:
-            Once you make the purchase, you cannot undo this action.
+            You can even mint on ethereum rinkeby, if you just wanna test out an NFT
           </s.TextDescription>
           <s.SpacerSmall />
           <s.TextDescription
@@ -425,9 +423,7 @@ function App() {
               color: "var(--primary-text)",
             }}
           >
-            We have set the gas limit to {CONFIG.GAS_LIMIT} for the contract to
-            successfully mint your NFT. We recommend that you don't lower the
-            gas limit.
+            You can check the contract at etherscan for autosplit of charity, community funds
           </s.TextDescription>
         </s.Container>
       </s.Container>

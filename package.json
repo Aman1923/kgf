@@ -1,10 +1,11 @@
 {
-  "name": "Sol Symbiotes",
-"homepage": "https://mint.solsymbiotes.space",
+  "name": "the_stripes_nft_dapp",
+  "homepage": "https://mint.kindergartenfight.site",
   "version": "1.0.0",
-  "description": "We are sol symbiotes ",
+  "description": "This means playground war",
   "private": true,
   "dependencies": {
+    "gh-pages": "^3.2.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-redux": "^7.2.4",
